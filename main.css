@@ -26,3 +26,13 @@ tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 
+.header {
+  background-color: darkcyan;
+  padding: 20px;
+  text-align: right;
+}
+
+.header img {
+  width: 100px;
+  border-radius: 50%;
+}
